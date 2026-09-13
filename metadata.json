@@ -1,0 +1,6 @@
+{
+  "name": "Call Center Lead Tracker",
+  "description": "Real-time WhatsApp call center outreach system with Excel sheet import for admins, number-by-number dialing for users, status ticks (Answered, Not Answered, Interested), call screenshot proof uploads, and live progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
